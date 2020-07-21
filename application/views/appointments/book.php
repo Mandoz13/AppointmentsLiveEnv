@@ -34,7 +34,7 @@
                             <strong>1</strong>
                         </div>
 
-                        <div id="step-2" class="book-step" title="<?= lang('step_two_title') ?>">
+                        <div id="step-23" class="book-step" title="<?= lang('step_two_title') ?>">
                             <strong>2</strong>
                         </div>
                         <div id="step-3" class="book-step" title="<?= lang('step_three_title') ?>">
@@ -224,7 +224,7 @@
                                 </div>
                                 <div class="form-group">
                                     <label for="phone-number" class="control-label"><?= lang('phone_number') ?> *</label>
-                                    <input type="text" id="phone-number" class="required form-control" maxlength="60" />
+                                    <input type="text" id="phone-number" class="form-control" maxlength="60" />
                                 </div>
                             </div>
 
